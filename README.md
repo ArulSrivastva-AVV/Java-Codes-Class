@@ -18,11 +18,7 @@ Clone the repository:
 git clone https://github.com/ArulSrivastva-AVV/Java-Codes-Class.git
 ```
 Navigate to the specific folder:
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
 ```bash
 cd Java-Codes-Class/OOPS
 ```
@@ -40,4 +36,4 @@ java FileName
 ```
 
 Author
-Arul Srivastava - ArulSrivastva-AVV
+Arul Srivastava - [ArulSrivastva](https://github.com/ArulSrivastva-avv)
