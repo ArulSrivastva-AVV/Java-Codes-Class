@@ -1,32 +1,43 @@
-Java Codes Class
+# Java-Codes-Class
+A comprehensive repository of Java programs developed during my coursework at Amrita Vishwa Vidyapeetham. This project documents my transition from C programming into Object-Oriented Programming (OOP) with Java.
 A collection of Java programs and exercises developed during the Java Programming course. This repository serves as a personal archive for learning syntax, object-oriented principles, and data structures.
 
 Overview
 This repository contains various Java implementations ranging from basic "Hello World" programs to advanced concepts like Multithreading, Exception Handling, and Collections.
 
-Prerequisites
-To run these codes, you need:
+Tech Stack
+- **Language:** Java
+- **Tools:** JDK 17+, VS Code / IntelliJ IDEA
+- **Platform:** Windows (NVIDIA RTX 4070 optimized environment)
 
-JDK (Java Development Kit) 8 or higher.
+# How-to-Run
 
-An IDE like IntelliJ IDEA, Eclipse, or VS Code.
-
-How to Run
 Clone the repository:
 
-Bash
+```bash
 git clone https://github.com/ArulSrivastva-AVV/Java-Codes-Class.git
+```
 Navigate to the specific folder:
+2. Start the app
 
-Bash
+   ```bash
+   npx expo start
+   ```
+```bash
 cd Java-Codes-Class/OOPS
+```
+
 Compile the Java file:
 
-Bash
+```bash
 javac FileName.java
+```
+
 Run the program:
 
-Bash
+```bash
 java FileName
-✍️ Author
+```
+
+Author
 Arul Srivastava - ArulSrivastva-AVV
